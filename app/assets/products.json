@@ -1,0 +1,90 @@
+[
+	{
+		"id":"infra555",
+		"name":"Infra",
+		"desc":"Ergonomine kede burui",
+		"qty":15,
+		"price":101.20,
+		"category":"ergonomines kedes"
+	},
+	{
+		"id":"ultra666",
+		"name":"Ultra",
+		"desc":"Ergonomine kede",
+		"qty":11,
+		"price":100.00,
+		"category":"ergonomines kedes"
+
+	},
+	{
+		"id":"malibu111",
+		"name":"Malibu",
+		"desc":"boso kede",
+		"qty":200,
+		"price":90.99,
+		"category":"boso kedes"
+
+	},
+	{
+		"id":"mesh123",
+		"name":"Mesh",
+		"desc":"boso kede tinklelio",
+		"qty":1,
+		"price":100.00,
+		"category":"boso kedes"
+
+	},
+	{
+		"id":"rico123",
+		"name":"Rico",
+		"desc":"ergonomine vaiko kede",
+		"qty":11,
+		"price":550.00,
+		"category":"vaikiskos kedes"
+
+	},
+	{
+		"id":"infra123",
+		"name":"Infra",
+		"desc":"Ergonomine kede burui",
+		"qty":15,
+		"price":101.20,
+		"category":"ergonomines kedes"
+	},
+	{
+		"id":"ultra222",
+		"name":"Ultra",
+		"desc":"Ergonomine kede",
+		"qty":11,
+		"price":100.00,
+		"category":"ergonomines kedes"
+
+	},
+	{
+		"id":"Malibu777",
+		"name":"Malibu",
+		"desc":"boso kede",
+		"qty":200,
+		"price":90.99,
+		"category":"boso kedes"
+
+	},
+	{
+		"id":"mesh773",
+		"name":"Mesh",
+		"desc":"boso kede tinklelio",
+		"qty":1,
+		"price":100.00,
+		"category":"boso kedes"
+
+	},
+	{
+		"id":"rico555",
+		"name":"Rico",
+		"desc":"ergonomine vaiko kede",
+		"qty":11,
+		"price":550.00,
+		"category":"vaikiskos kedes"
+
+	}
+]
