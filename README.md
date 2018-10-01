@@ -3,8 +3,9 @@
 My app for the job application to the best company "names Mediapark"
 
 ## Installation
-git clone https://github.com/juozasm/mediapark-react-native-kitten.git
-npm install
+1. git clone https://github.com/juozasm/mediapark-react-native-kitten.git
+2. npm install
+
 ### Signed compiled version of the app stored in root riectory: app-release.apk
 
 ## What is done and  whats not and mini comments:
