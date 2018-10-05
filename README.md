@@ -1,6 +1,5 @@
 # Kitten app
 
-My app for the job application to the best company "names Mediapark"
 
 ## Installation
 1. git clone https://github.com/juozasm/mediapark-react-native-kitten.git
@@ -68,7 +67,7 @@ And didn't statred learning yet, but now will learn more about styling apps.
 Thank you for stimulus and motivation to do something practical wwith React native and Redux.
 Learned many things while runing to a problems while proggramed.
 
-#### And at the end i would realy like to practise and work with React? React Native and everything else in you're company:)
+
 
 
 
