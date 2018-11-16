@@ -65,7 +65,7 @@ Sorry that design isn't great, just strating/started using / learning React Nati
 And didn't statred learning yet, but now will learn more about styling apps.
 
 Thank you for stimulus and motivation to do something practical wwith React native and Redux.
-Learned many things while runing to a problems while proggramed.
+Learned many things while runing to a problems while programed.
 
 
 
